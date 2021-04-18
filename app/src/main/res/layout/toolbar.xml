@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#000000"
+    android:elevation="5dp">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Calculator"
+        android:textColor="#FFFFFF"
+        android:textSize="28sp"
+        android:textAlignment="center"
+        android:fontFamily="@font/h5"
+        android:textStyle="bold" />
+
+</androidx.appcompat.widget.Toolbar>
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    <Toolbar-->
+<!--        android:id="@+id/toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="?attr/actionBarSize"-->
+<!--        android:background="@color/colorPrimary"-->
+<!--        android:textAlignment="center">-->
+
+<!--        <TextView-->
+<!--            android:paddingTop="10dp"-->
+<!--            android:id="@+id/toolbar_title"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:text="Scientific Calculator"-->
+<!--            android:fontFamily="@font/lobster"-->
+<!--            android:textColor="#000000"-->
+<!--            android:textSize="30sp"-->
+<!--            android:textAlignment="center"/>-->
+<!--    </Toolbar>-->
+
+<!--</LinearLayout>-->
